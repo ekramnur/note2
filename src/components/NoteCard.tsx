@@ -26,7 +26,7 @@ export function NoteCard({
 
         {note.pinned && (
           <span className="text-xl" title="Pinned">
-            📌
+            📌 pin
           </span>
         )}
       </div>
